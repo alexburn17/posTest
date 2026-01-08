@@ -1,13 +1,12 @@
 ---
-title: "My Website"
+title: "Home"
 ---
 
-# Header 1
-Test
+## Welcome
 
-## Header 2
-Test
+This is a **test Quarto website** using the **Minty** theme.
 
+- Built with Quarto
+- Rendered locally
+- Hosted on GitHub Pages
 
-## Header 3
-Test

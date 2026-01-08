@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a test Quarto website using the Minty theme.\n\nBuilt with Quarto\nRendered locally\nHosted on GitHub Pages"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "This is a test Quarto website using the Minty theme.\n\nBuilt with Quarto\nRendered locally\nHosted on GitHub Pages"
+  },
+  {
+    "objectID": "about.html#about.qmd",
+    "href": "about.html#about.qmd",
+    "title": "Minty Test Site",
+    "section": "3️⃣ about.qmd",
+    "text": "3️⃣ about.qmd"
+  },
+  {
+    "objectID": "about.html#markdown",
+    "href": "about.html#markdown",
+    "title": "Minty Test Site",
+    "section": "```markdown",
+    "text": "```markdown"
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "Minty Test Site",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "Minty Test Site",
+    "section": "About This Site",
+    "text": "About This Site\nThis site exists to test the Minty Bootstrap theme in Quarto.\nYou can add: - Pages - Navigation - Code blocks - Figures\nAll styling is controlled in _quarto.yml."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site exists to test the Minty Bootstrap theme in Quarto.\nYou can add: - Pages - Navigation - Code blocks - Figures\nAll styling is controlled in _quarto.yml."
+  }
+]

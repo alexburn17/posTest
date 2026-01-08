@@ -1,0 +1,16 @@
+
+---
+title: "About"
+---
+
+## About This Site
+
+This site exists to test the **Minty Bootstrap theme** in Quarto.
+
+You can add:
+- Pages
+- Navigation
+- Code blocks
+- Figures
+
+All styling is controlled in `_quarto.yml`.

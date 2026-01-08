@@ -1,5 +1,17 @@
 project:
-  title: "posTest"
+  type: website
+  output-dir: docs
 
+website:
+  title: "Minty Test Site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
 
-
+format:
+  html:
+    theme: minty
+    toc: true
